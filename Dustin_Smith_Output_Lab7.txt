@@ -1,0 +1,15 @@
+The mean number of apples eaten is 6.39
+The median number of apples eaten is 6.50
+The mode number of apples eaten is (are) 5 8
+
+The mean number of bananas eaten is 6.50
+The median number of bananas eaten is 7.00
+The mode number of bananas eaten is (are) 9
+
+The mean number of strawberries eaten is 5.00
+The median number of strawberries eaten is 5.50
+The mode number of strawberries eaten is (are) 6
+
+The mean number of all fruit eaten is 6.10
+The median number of all fruit eaten is 6.00
+The mode number of all fruit eaten is (are) 6
